@@ -1,0 +1,34 @@
+C:\Users\EREN ERDOĞMUŞ\source\repos\kimlik kart\kimlik kart\obj\Debug\kimlik kart.csproj.AssemblyReference.cache
+C:\Users\EREN ERDOĞMUŞ\source\repos\kimlik kart\kimlik kart\obj\Debug\kimlik_kart.Form1.resources
+C:\Users\EREN ERDOĞMUŞ\source\repos\kimlik kart\kimlik kart\obj\Debug\kimlik_kart.Properties.Resources.resources
+C:\Users\EREN ERDOĞMUŞ\source\repos\kimlik kart\kimlik kart\obj\Debug\kimlik kart.csproj.GenerateResource.cache
+C:\Users\EREN ERDOĞMUŞ\source\repos\kimlik kart\kimlik kart\obj\Debug\kimlik kart.csproj.CoreCompileInputs.cache
+C:\Users\EREN ERDOĞMUŞ\source\repos\kimlik kart\kimlik kart\bin\Debug\kimlik kart.exe.config
+C:\Users\EREN ERDOĞMUŞ\source\repos\kimlik kart\kimlik kart\bin\Debug\kimlik kart.exe
+C:\Users\EREN ERDOĞMUŞ\source\repos\kimlik kart\kimlik kart\bin\Debug\kimlik kart.pdb
+C:\Users\EREN ERDOĞMUŞ\source\repos\kimlik kart\kimlik kart\obj\Debug\kimlik kart.exe
+C:\Users\EREN ERDOĞMUŞ\source\repos\kimlik kart\kimlik kart\obj\Debug\kimlik kart.pdb
+C:\Users\EREN ERDOĞMUŞ\source\repos\kimlik kart\kimlik kart\obj\Debug\kimlik_kart.Form3.resources
+C:\Users\EREN ERDOĞMUŞ\source\repos\kimlik kart\kimlik kart\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\EREN ERDOĞMUŞ\source\repos\kimlik kart\kimlik kart\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\EREN ERDOĞMUŞ\source\repos\kimlik kart\kimlik kart\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\EREN ERDOĞMUŞ\source\repos\kimlik kart\kimlik kart\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\EREN ERDOĞMUŞ\source\repos\kimlik kart\kimlik kart\obj\Debug\kimlik kart.csproj.ResolveComReference.cache
+C:\Users\EREN ERDOĞMUŞ\source\repos\kimlik kart\kimlik kart\obj\Debug\kimlik kart.csproj.CopyComplete
+C:\Users\ERENERDOGMUS\source\repos\kimlik kart\kimlik kart\bin\Debug\kimlik kart.exe.config
+C:\Users\ERENERDOGMUS\source\repos\kimlik kart\kimlik kart\bin\Debug\kimlik kart.exe
+C:\Users\ERENERDOGMUS\source\repos\kimlik kart\kimlik kart\bin\Debug\kimlik kart.pdb
+C:\Users\ERENERDOGMUS\source\repos\kimlik kart\kimlik kart\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\ERENERDOGMUS\source\repos\kimlik kart\kimlik kart\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ERENERDOGMUS\source\repos\kimlik kart\kimlik kart\obj\Debug\kimlik kart.csproj.AssemblyReference.cache
+C:\Users\ERENERDOGMUS\source\repos\kimlik kart\kimlik kart\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\ERENERDOGMUS\source\repos\kimlik kart\kimlik kart\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ERENERDOGMUS\source\repos\kimlik kart\kimlik kart\obj\Debug\kimlik kart.csproj.ResolveComReference.cache
+C:\Users\ERENERDOGMUS\source\repos\kimlik kart\kimlik kart\obj\Debug\kimlik_kart.Form1.resources
+C:\Users\ERENERDOGMUS\source\repos\kimlik kart\kimlik kart\obj\Debug\kimlik_kart.Form3.resources
+C:\Users\ERENERDOGMUS\source\repos\kimlik kart\kimlik kart\obj\Debug\kimlik_kart.Properties.Resources.resources
+C:\Users\ERENERDOGMUS\source\repos\kimlik kart\kimlik kart\obj\Debug\kimlik kart.csproj.GenerateResource.cache
+C:\Users\ERENERDOGMUS\source\repos\kimlik kart\kimlik kart\obj\Debug\kimlik kart.csproj.CoreCompileInputs.cache
+C:\Users\ERENERDOGMUS\source\repos\kimlik kart\kimlik kart\obj\Debug\kimlik kart.csproj.CopyComplete
+C:\Users\ERENERDOGMUS\source\repos\kimlik kart\kimlik kart\obj\Debug\kimlik kart.exe
+C:\Users\ERENERDOGMUS\source\repos\kimlik kart\kimlik kart\obj\Debug\kimlik kart.pdb
